@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeShiftTimeAPI", "..\EmployeeShiftTimeAPI\EmployeeShiftTimeAPI.csproj", "{FC0E0688-4243-488F-89FB-85415DC318BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeShiftTimeAPI.Tests", "..\EmployeeShiftTimeAPI.Tests\EmployeeShiftTimeAPI.Tests.csproj", "{65D320AF-A82F-4C6F-8240-5D6BFD7B0B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeShiftTime", "EmployeeShiftTime\EmployeeShiftTime.csproj", "{25B16165-5AAE-4B4F-B775-9FE5E47F381D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0E0688-4243-488F-89FB-85415DC318BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0E0688-4243-488F-89FB-85415DC318BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0E0688-4243-488F-89FB-85415DC318BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0E0688-4243-488F-89FB-85415DC318BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D320AF-A82F-4C6F-8240-5D6BFD7B0B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D320AF-A82F-4C6F-8240-5D6BFD7B0B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D320AF-A82F-4C6F-8240-5D6BFD7B0B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D320AF-A82F-4C6F-8240-5D6BFD7B0B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B16165-5AAE-4B4F-B775-9FE5E47F381D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B16165-5AAE-4B4F-B775-9FE5E47F381D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B16165-5AAE-4B4F-B775-9FE5E47F381D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B16165-5AAE-4B4F-B775-9FE5E47F381D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
